@@ -123,4 +123,4 @@ pip install pandas numpy matplotlib wordcloud scikit-learn surprise
 python Course\ Recommender.py
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. For more info, see the [LICENSE](https://github.com/JaCar-868/Disease-Progression/blob/main/LICENSE) file.
