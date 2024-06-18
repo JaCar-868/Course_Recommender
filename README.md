@@ -8,10 +8,15 @@ Collaborative Filtering Recommender: Implements a collaborative filtering system
 
 ## Libraries Used
 pandas
+
 numpy
+
 matplotlib
+
 wordcloud
+
 scikit-learn
+
 surprise
 
 ## Usage
