@@ -25,6 +25,7 @@ Run the script: Execute the Python file to perform EDA, generate recommendations
 
 ## Getting Started
 1. Clone this repository to your local machine.
+   
 2. Ensure you have the necessary libraries installed. You can install them using pip:
 
 pip install pandas numpy matplotlib wordcloud scikit-learn surprise
