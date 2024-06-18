@@ -21,6 +21,7 @@ surprise
 
 ## Usage
 Load the datasets: Ensure coursea_data.csv is in the same directory as the script.
+
 Run the script: Execute the Python file to perform EDA, generate recommendations, and train the collaborative filtering model.
 
 ## Getting Started
